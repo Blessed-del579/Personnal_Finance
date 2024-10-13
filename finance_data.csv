@@ -1,0 +1,34 @@
+date,amount,category,description
+01-10-2024,50.0,Income,Salary
+02-10-2024,100.0,Expense,Restaurant
+03-10-2024,150.0,Expense,Coffee
+04-10-2024,300.0,Expense,Gas
+05-10-2024,500.0,Income,Salary
+06-10-2024,1000.0,Income, Freelance Work
+07-10-2024,200.0,Income,Freelance Work
+08-10-2024,100.0,Expense,Transport
+09-10-2024,50.0,Expense,Books
+10-10-2024,100.0,Income,Stock Dividends
+11-10-2024,100.0,Expense,Entertainment
+12-10-2024,35.0,Expense,Stationery
+13-10-2024,125.65,Income,Salary
+14-10-2024,250.0,Income,Salary
+15-10-2024,3000.0,Income,Salary
+16-10-2024,300.0,Expense,Groceries
+17-10-2024,500.65,Expense,Utilities
+18-10-2024,250.0,Income,Freelance Work
+19-10-2024,70.0,Expense,Restaurant
+20-10-2024,130.0,Expense,Transport
+21-10-2024,1600.0,Income,Bonus
+22-10-2024,35.0,Expense,Snacks
+23-10-2024,1300.0,Income,Stock Dividends
+24-10-2024,100.0,Expense,Entertainment
+25-10-2024,55.0,Expense,Coffee
+26-10-2024,140.0,Expense,Gas
+27-10-2024,90.0,Expense,Books
+28-10-2024,170.0,Expense,Clothing
+29-10-2024,2200.0,Income,Salary
+30-10-2024,45.0,Expense,Stationery
+31-10-2024,190.0,Expense,Utilities
+01-11-2024,124.0,Expense,Groceries
+02-11-2024,100.0,Income,Freelance Work
